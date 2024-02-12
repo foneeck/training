@@ -1,0 +1,16 @@
+{
+    "name": "foneeck/training-proj",
+    "description": "Навчальний проект",
+    "autoload": {
+        "psr-4": {
+            "Foneeck\\TrainingProj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "foneeck",
+            "email": "kop4ik2003@gmail.com"
+        }
+    ],
+    "require": {}
+}
